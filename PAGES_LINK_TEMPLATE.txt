@@ -1,0 +1,13 @@
+Repository:
+https://github.com/kaifalu/HUD-CDBG-DR-Fund-Dashboard-Hierarchical
+
+Pages settings:
+https://github.com/kaifalu/HUD-CDBG-DR-Fund-Dashboard-Hierarchical/settings/pages
+
+Public dashboard:
+https://kaifalu.github.io/HUD-CDBG-DR-Fund-Dashboard-Hierarchical/
+
+Pages configuration:
+Source = Deploy from a branch
+Branch = main
+Folder = /(root)

@@ -1,0 +1,14 @@
+{
+  "source_archive": "HUD-CDBG-DR-Fund-Dashboard-Hierarchical-main.zip",
+  "finance_rows": 128382,
+  "old_row_width": 27,
+  "new_row_width": 25,
+  "all_financial_and_geographic_fields_identical": true,
+  "financial_totals_in_cents": {
+    "QPR Funds Obligated $": 8033699910656,
+    "QPR Fund Expended $": 5724003979299,
+    "QPR Grant Disbursed $": 5799211151008,
+    "QPR Activity Program Income Disbursed $": 41713125114,
+    "QPR Activity Program Income Received $": 49501910645
+  }
+}

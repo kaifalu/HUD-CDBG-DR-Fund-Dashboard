@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "test_finance_rows": 40,
+  "test_only_sample": true,
+  "separate_text_inputs_required": false,
+  "financial_values_preserved": true,
+  "row_width": 25,
+  "only_financial_geographic_assets_emitted": true
+}

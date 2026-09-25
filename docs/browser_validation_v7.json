@@ -1,0 +1,64 @@
+{
+  "default_mode_explore": true,
+  "comparison_panels": 2,
+  "hierarchical_filters": 14,
+  "kpis_per_panel": 6,
+  "no_narrative_controls_or_text": true,
+  "state_map_trace": [],
+  "webgl_available": false,
+  "baseline_financial_timeline_totals": [
+    {
+      "name": "QPR Funds Obligated $",
+      "total": 80336999106.56003
+    },
+    {
+      "name": "QPR Fund Expended $",
+      "total": 57240039792.990005
+    },
+    {
+      "name": "QPR Grant Disbursed $",
+      "total": 57992111510.07997
+    }
+  ],
+  "aggregate_csv_rows_and_columns": [
+    1446,
+    26
+  ],
+  "county_map": {
+    "types": [],
+    "count": 0,
+    "displayed_records": "84,324"
+  },
+  "city_map": {
+    "types": [],
+    "count": 0,
+    "displayed_records": "48,006"
+  },
+  "urban_map": {
+    "types": [],
+    "count": 0,
+    "displayed_records": "38,121"
+  },
+  "texas_records": "41,274",
+  "panel_2_independent_records": "128,382",
+  "funding_png_download": true,
+  "map_export": "WebGL fallback image",
+  "hierarchical_grantee_project_filter": true,
+  "no_metric_empty_state": true,
+  "single_area_report": true,
+  "print_save_pdf_window": true,
+  "comparison_report_and_exports": true,
+  "custom_time_range": true,
+  "quick_reset": true,
+  "mobile_width": {
+    "body": 390,
+    "viewport": 390
+  },
+  "offline_self_contained_startup": true,
+  "offline_self_contained_quick_report": true,
+  "no_narrative_network_requests": true,
+  "page_errors": [],
+  "console_errors": [],
+  "http_errors": [],
+  "tested_url_context": "Standalone HTML supplied as browser document content with network blocked; managed browser navigation policy prevents direct HTTP/file URL tests."
+}
